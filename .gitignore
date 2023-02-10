@@ -3,9 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.csv
+*.pkl
+*.png
+*.pdf
+*.zip
+
 # C extensions
 *.so
-
+*.pdf
 # Distribution / packaging
 .Python
 build/
